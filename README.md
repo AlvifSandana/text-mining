@@ -7,3 +7,6 @@ TODO:
 - [x] metode proses pertanyaan dan pencocokan dengan dataset
 - [ ] implementasi rumus menjadi kode program
 - [ ] optimasi kode program
+
+ODM Workflow:
+<img src="./ODM/current-workflow.PNG" alt="current-workflow"/>
