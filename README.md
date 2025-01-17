@@ -5,6 +5,8 @@ TODO:
 - [x] pembobotan pertanyaan (metode? TF-IDF)
 - [x] olah data dan simulasi menggunakan **orange data mining**
 - [x] metode proses pertanyaan dan pencocokan dengan dataset
+- [ ] implementasi kode untuk model training
+- [ ] optimasi dataset (menyeimbangkan dataset agar menghasilkan model dengan akurasi lebih baik)
 - [ ] implementasi rumus menjadi kode program
 - [ ] optimasi kode program
 
